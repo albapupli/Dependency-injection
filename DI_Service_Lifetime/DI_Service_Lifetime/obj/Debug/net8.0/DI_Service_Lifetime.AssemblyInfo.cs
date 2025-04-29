@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DI_Service_Lifetime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39bc8a7e0e3c1f70f35ed8e244418cbbb0ffb9db")]
 [assembly: System.Reflection.AssemblyProductAttribute("DI_Service_Lifetime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DI_Service_Lifetime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
