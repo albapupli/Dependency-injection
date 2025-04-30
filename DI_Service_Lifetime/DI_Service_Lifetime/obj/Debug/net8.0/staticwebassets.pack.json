@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pupli\\OneDrive - SISAL SPA\\Documents\\DI_Service_Lifetime\\DI_Service_Lifetime\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DI_Service_Lifetime.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DI_Service_Lifetime.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pupli\\OneDrive - SISAL SPA\\Documents\\DI_Service_Lifetime\\DI_Service_Lifetime\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\pupli\\OneDrive - SISAL SPA\\Documents\\DI_Service_Lifetime\\DI_Service_Lifetime\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pupli\\OneDrive - SISAL SPA\\Documents\\DI_Service_Lifetime\\DI_Service_Lifetime\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pupli\\OneDrive - SISAL SPA\\Documents\\DI_Service_Lifetime\\DI_Service_Lifetime\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DI_Service_Lifetime.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DI_Service_Lifetime.props",
+      "PackagePath": "build\\DI_Service_Lifetime.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DI_Service_Lifetime.props",
+      "PackagePath": "buildMultiTargeting\\DI_Service_Lifetime.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DI_Service_Lifetime.props",
+      "PackagePath": "buildTransitive\\DI_Service_Lifetime.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
